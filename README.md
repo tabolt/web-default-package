@@ -7,6 +7,7 @@
   - Spring Data JPA
   - QueryDSL
 - 프론트
+  - jsp
   - typescript
   - react
 
