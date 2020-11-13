@@ -3,9 +3,9 @@
   - Java8
   - SpringBoot
   - JPA
-  - Hibername
-  - Spring Data JPA
-  - QueryDSL
+    - Hibernate
+    - Spring Data JPA
+    - QueryDSL
 - 프론트
   - jsp
   - typescript
