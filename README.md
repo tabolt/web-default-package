@@ -1,7 +1,7 @@
 # ...
 
 # 필요한 기능
-- spring security
+- spring security 로 인증/권한 관리
 - 사용자 관리
 - 사용자 그룹 관리
 - 사용자 권한 관리
